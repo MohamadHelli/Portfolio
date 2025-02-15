@@ -1,0 +1,30 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 100px;
+    width: 100%;
+    height: 50vh;
+    background-image: url("../images/hero.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#sortm {
+    color: black;
+}
+
+#sortm:hover {
+    color: skyblue
+}

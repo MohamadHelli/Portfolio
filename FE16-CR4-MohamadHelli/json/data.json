@@ -1,0 +1,59 @@
+let list = `
+    [
+        {
+            "title": "Take the dog for a walk",
+            "description": "Walking your dog regularly provides a basic foundation for physical and mental health. Like a child, your dog wants to know the world. If he or she is confined to the house for too long .",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.01.2022"
+        },{
+            "title": "Music",
+            "description": "art concerned with combining vocal or instrumental sounds for beauty of form or emotional expression, usually according to cultural standards of rhythm, melody, and, in most Western music, harmony. ",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.02.2022"
+        },{
+            "title": "Food",
+            "description": "Describing food is not as easy as it would seem. How many ways can you say something was really tasty? Not enough to keep you interested in what you are writing. That is why we have .",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.03.2022"
+        },{
+            "title": "Coding",
+            "description": "When learning how to code, instead of just focusing on learning a specific technology, it can also help to learn the foundations  the building blocks  and to peel back the layers of abstraction to get to know the underlying principles that all these technologies have in common.",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.04.2022"
+        },{
+            "title": "Go to CodeFactory",
+            "description": "When learning how to code, instead of just focusing on learning a specific technology, it can also help to learn the foundations  the building blocks  and to peel back the layers of abstraction to get to know the underlying principles that all these technologies have in common.",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.05.2022"
+        },{
+            "title": "Swim",
+            "description": "in recreation and sports, the propulsion of the body through water by combined arm and leg motions and the natural flotation of the body. Swimming as an exercise is popular as an all-around body developer and is particularly useful in therapy and as exercise for physically handicapped persons.",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.06.2022"
+        },{
+            "title": "Sport",
+            "description": "pertains to any form of competitive physical activity or game that aims to use, maintain, or improve physical ability and skills while providing enjoyment to.",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.07.2022"
+        },{
+            "title": "Walk",
+            "description": "to advance or travel on foot at a moderate speed or pace; proceed by steps; move by advancing the feet alternately so that there is always.",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.08.2022"
+        },{
+            "title": "Go with friends",
+            "description": " someone you have fun with, someone you trust and someone in whom you confide. The first person you call when you get good news or want to go out .",
+            "image": "../images/pic.jpg",
+            "level": 0,
+            "Date":"01.09.2022"
+        }
+    ]
+`
